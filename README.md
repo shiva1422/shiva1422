@@ -15,6 +15,8 @@
      
      Midi - Android AMIDI,Apple Core MIDI.
      
+     Text - Freetype.
+     
   *Operating Systems : Linux,Android,Apple,Windows.
 
      
