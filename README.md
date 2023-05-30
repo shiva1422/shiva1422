@@ -2,6 +2,7 @@
 - 👀 I’m interested in Computer Vision,Multimedia development,Game Programming,Graphics Programming ,Cross PlatForm App Development.
 - Skills:
   * Programming Languages - C,C++,Objective C,Java,JavaScript,Php
+  * 
   *  Graphics - OPENGL,Metal,Vulkan.
   *  
   *  Shading Languages - GLSL ,Metal
