@@ -13,7 +13,7 @@
      
      Video - FFMpeg,MediaCodec,Media Extractor,Media Muxer,AVFoundation.
      
-     Midi - Android AMIDI,Core MIDI.
+     Midi - Android AMIDI,Apple Core MIDI.
      
   *Operating Systems : Linux,Android,Apple,Windows.
 
